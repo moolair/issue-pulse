@@ -1,0 +1,12 @@
+{
+  "github": {
+    "token": "ghp_YOUR_PERSONAL_ACCESS_TOKEN",
+    "owner": "your-github-username",
+    "repo": "your-repo-name",
+    "labels": ["bug", "customer-reported"]
+  },
+  "slack": {
+    "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+  },
+  "poll_interval_seconds": 60
+}
